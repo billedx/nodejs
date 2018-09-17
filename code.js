@@ -36,5 +36,11 @@ function fifths(n)
     return x;
 }
 
-var x = fifths(405);
+var x = fifths(45);
 console.log(x);
+
+//chg to see diff btw local and origin master
+//nothing happens?? comments doesnt count
+//was bc not saved file. strange
+
+var a = 5;
