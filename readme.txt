@@ -9,3 +9,4 @@ testig again
 
 changin in the master this will be mess
 changing things newbranch
+jag ändrar i filen online.. testar pull senädnra
