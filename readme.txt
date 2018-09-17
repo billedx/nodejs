@@ -12,3 +12,6 @@ changing things newbranch
 jag ändrar i filen online.. testar pull senädnra
 
 now im chnging in the testing branch
+
+
+chg some here too to compare to origin master
